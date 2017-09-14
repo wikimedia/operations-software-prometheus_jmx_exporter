@@ -1,0 +1,7 @@
+# Restbase cluster
+deployment-restbase01.deployment-prep.eqiad.wmflabs
+deployment-restbase02.deployment-prep.eqiad.wmflabs
+
+#Kafka-Jumbo cluster
+deployment-kafka-jumbo-2.deployment-prep.eqiad.wmflabs
+deployment-kafka-jumbo-1.deployment-prep.eqiad.wmflabs
